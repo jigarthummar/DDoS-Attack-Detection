@@ -1,1 +1,1 @@
-# DDoS-Attack-Predition
+# DDoS-Attack-Detection
